@@ -1,4 +1,6 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
+
+/* Headless CMS */
 
 const SinglePost = () => {
   return (
